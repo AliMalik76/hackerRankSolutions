@@ -1,3 +1,6 @@
+//problem link: https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true
+
+
    //---------------O(n^2) solution-----------------
     let occurences = []
     for(let i=0; i<queries.length; i++){
